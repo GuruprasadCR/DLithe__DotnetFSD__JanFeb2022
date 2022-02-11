@@ -1,0 +1,24 @@
+body{
+    font-size: 35px;
+    background-color: rgba(17, 16, 17, 0.034);
+}
+.navbar{
+    top:0;;
+    position: sticky;
+    
+}
+.navbar-brand{
+    font-size: 20px;
+    background-color: white;
+    border-radius: 80px;
+}
+.container{
+    background-color: rgb(145, 161, 167);
+    border-radius: 10px;
+}
+pre{
+    background-color: rgb(236, 173, 173);
+    color: rgb(17, 17, 17);
+    font-size: 15px;
+    border-radius: 100px;
+}

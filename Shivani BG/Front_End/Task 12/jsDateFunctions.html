@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Date Functions</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">JavaScript</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="index.html">ARRAY METHODS</a></li>
+                    <li><a href="jsStrings.html">STRING METHODS</a></li>
+                    <li><a href="jsScope.html">EXCEPTION HANDLING</a></li>
+                    <li><a href="jsMathFunctions.html">MATHAMATICS FUNCTIONS</a></li>
+                    <li><a href="jsDateFunctions.html">DATE FUNCTIONS</a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        
+        
+    
+        <p>Example 1</p>
+        <pre>
+            <code>
+                var d = new Date();
+                document.write(d);
+            </code>
+        </pre>
+       
+        <p>
+            <script>
+                var d = new Date();
+                document.write(d);
+            </script>
+        </p>
+    </div>
+    <br>
+
+    <div class="container">
+        
+        
+        
+        <p>Example 2</p>
+        <pre>
+            <code>
+                var d = new Date(1000);
+                document.write(d);
+            </code>
+        </pre>
+       
+        <p>
+            <script>
+                var d = new Date(1000);
+                document.write(d);
+            </script>
+        </p>
+    </div>
+    <br>
+
+    <div class="container">
+        <h1>new Date(year, month, day, hours, minutes, seconds, milliseconds)</h1>
+        
+        
+        <p>Example 3</p>
+        <pre>
+            <code>
+    var d = new Date(2020, 0, 1, 0, 0, 0, 0);
+                document.write(d);
+            </code>
+        </pre>
+       
+        <p>
+            <script>
+         var d = new Date(2020, 0, 1, 0, 0, 0, 0);
+        document.write(d);
+            </script>
+        </p>
+    </div>
+    <br>
+
+    <div class="container">
+       
+        
+        
+        <p>Example 4</p>
+        <pre>
+            <code>
+         var d = new Date("January 1, 2020");
+                document.write(d);
+            </code>
+        </pre>
+       
+        <p>
+            <script>
+                var d = new Date("January 1, 2020");
+                document.write(d);
+            </script>
+        </p>
+    </div>
+    <br>
+
+    <div class="container">
+        
+        
+        
+        <p>Example 5</p>
+        <pre>
+            <code>
+var d = new Date("January 1, 2020", "MM/dd/yyyy");
+                document.write(d);
+            </code>
+        </pre>
+        
+        <p>
+            <script>
+                var d = new Date("January 1, 2020", "MM/dd/yyyy");
+                document.write(d);
+            </script>
+        </p>
+    </div>
+    <br>
+
+    </body>
+    </html>
