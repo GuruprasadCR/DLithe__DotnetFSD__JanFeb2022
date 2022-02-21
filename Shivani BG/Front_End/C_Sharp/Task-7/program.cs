@@ -2,24 +2,24 @@
 
 namespace InterfaceDemo
 {
-    interface interface1   // replace public with interface
+    interface interface1   
     {
         void Test();
         void Show();
     }
-    interface interface2   // replace public with interface
+    interface interface2   
     {
         void Test();
         void Show();
     }
-    class ImplementInterafce : interface1, interface2   // Capital letter
+    class ImplementInterafce : interface1, interface2   
     {
 
-        public void Test()                                          // replace overide with void
+        public void Test()                                          
         {
             Console.WriteLine("Test method is implemented");
         }
-        public void Show()                                          // replace overide with void
+        public void Show()                                         
         {
             Console.WriteLine("Show method is implemented");
         }
