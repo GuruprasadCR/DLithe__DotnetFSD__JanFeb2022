@@ -1,0 +1,9 @@
+<h1>My First Angular Application</h1>
+<h2> {{title}}</h2> <!-- String Interpolation--> 
+<img [src]="image" alt="Demo" style="height: 200px;width: 300px;"><!--property binding-->
+<!--two way binding-->
+<input [(ngModel)] ="value" type="text">
+{{value}}
+<!--event binding-->
+<button (click)="onClick()" >Event</button>
+<router-outlet></router-outlet>
