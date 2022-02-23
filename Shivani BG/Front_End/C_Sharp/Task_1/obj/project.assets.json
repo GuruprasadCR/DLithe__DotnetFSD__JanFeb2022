@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\clone\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task_1\\Task_1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task_1\\Task_1.csproj",
       "projectName": "Task_1",
-      "projectPath": "C:\\Users\\User\\Desktop\\clone\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task_1\\Task_1.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task_1\\Task_1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\clone\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task_1\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

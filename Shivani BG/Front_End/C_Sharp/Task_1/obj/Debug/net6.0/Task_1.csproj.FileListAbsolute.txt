@@ -20,3 +20,10 @@ C:\Users\User\Desktop\clone\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C
 C:\Users\User\Desktop\clone\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\clone\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.dll
 C:\Users\User\Desktop\clone\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.pdb
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.dll
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task_1\obj\Debug\net6.0\Task_1.pdb

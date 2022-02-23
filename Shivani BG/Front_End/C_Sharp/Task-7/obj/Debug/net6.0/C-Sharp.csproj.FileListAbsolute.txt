@@ -28,3 +28,18 @@ C:\Users\User\Desktop\clone\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C
 C:\Users\User\Desktop\clone\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.pdb
 C:\Users\User\Desktop\clone\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.genruntimeconfig.cache
 C:\Users\User\Desktop\clone\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\ref\C-Sharp.dll
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\bin\Debug\net6.0\C-Sharp.exe
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\bin\Debug\net6.0\C-Sharp.deps.json
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\bin\Debug\net6.0\C-Sharp.runtimeconfig.json
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\bin\Debug\net6.0\C-Sharp.dll
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\bin\Debug\net6.0\C-Sharp.pdb
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.dll
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\refint\C-Sharp.dll
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.pdb
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\C-Sharp.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\DLithe__DotnetFSD__JanFeb2022\Shivani BG\Front_End\C_Sharp\Task-7\obj\Debug\net6.0\ref\C-Sharp.dll
