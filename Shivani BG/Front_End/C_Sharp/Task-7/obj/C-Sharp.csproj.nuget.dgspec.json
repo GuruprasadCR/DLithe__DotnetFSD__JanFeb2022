@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\C-Sharp\\C-Sharp.csproj": {}
+    "C:\\Users\\User\\Desktop\\clone\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task-7\\C-Sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\C-Sharp\\C-Sharp.csproj": {
+    "C:\\Users\\User\\Desktop\\clone\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task-7\\C-Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\C-Sharp\\C-Sharp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\clone\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task-7\\C-Sharp.csproj",
         "projectName": "C-Sharp",
-        "projectPath": "C:\\Users\\User\\Desktop\\C-Sharp\\C-Sharp.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\clone\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task-7\\C-Sharp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\C-Sharp\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\clone\\DLithe__DotnetFSD__JanFeb2022\\Shivani BG\\Front_End\\C_Sharp\\Task-7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
